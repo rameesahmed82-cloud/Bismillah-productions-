@@ -1,0 +1,6 @@
+{
+  "name": "Smart Nearby Nav",
+  "description": "Real-time 100% accurate location analyzer, finder, and turn-by-turn navigation system for Gas Stations, Hotels, Mosques, and custom places using GPS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
